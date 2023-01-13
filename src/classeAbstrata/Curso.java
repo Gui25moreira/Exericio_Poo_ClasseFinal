@@ -4,7 +4,7 @@ public abstract class Curso {
 
     private String nomeDoCurso;
     private String codigoDoCurso;
-    private int quantidadeDeDisciplinas = 10;
+    private int quantidadeDeDisciplinas;
     private String duracaoCurso;
 
     public Curso() {
